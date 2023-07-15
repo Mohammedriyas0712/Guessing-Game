@@ -1,0 +1,116 @@
+#body{
+    background-image: url(./assets/studio-background-for-family-photo-11608302757afdort75y6.jpg);
+}
+.cont{
+    height: 200px;
+    width: 500px;
+    /* border: 2px solid; */
+    margin-left: 500px;
+    margin-top: 350px;
+}
+#l1{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.b1{
+    height: 70px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 0px 10px 1px white;
+    margin-left: 170px;
+    border: 2px solid;
+    border-radius: 30px;
+    background-image: url(./assets/pexels-photo-129731.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+.cont1{
+    /* border: 2px solid; */
+    margin-left: 400px;
+    margin-top: 150px;
+    height: 400px;
+    width: 900px;
+}
+#l1,.l1{
+    font-size: 50px;
+}
+#l1{
+    box-shadow: 0px 0px 10px 1px white;
+    text-shadow: 0px 0px 10px 1px black;
+    color: rgb(23, 7, 79);
+}
+.l1{
+    margin-left: 50px;
+}
+#input{
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 300px; 
+    border: 2px solid;
+    font-size: 20px;
+}
+#submit{
+    /* border: 2px solid; */
+    margin-top: 50px;
+    width: 250px;
+    height: 80px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    border-radius: 30px;
+    background-image: url(./assets/pexels-photo-2680270.webp);
+}
+#l2{
+    font-size: 50px;
+    margin-left: 300px;
+    height: 50px;
+    margin-top: 50px;
+    width: 200px;
+    font-size: 30px;
+    /* border: 2px solid; */
+}
+#l3{
+    /* border: 2px solid black; */
+    height: 50px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 40px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+#body2{
+    background-image: url(./assets/images.jpg);
+}
+.restart{
+    /* border: 2px solid; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+    margin-left: 400px;
+    width: 700px;
+    height: 300px;
+    box-shadow: 0px 0px 10px 1px;
+    
+}
+.res{
+    width: 200px;
+    height: 70px;
+    font-size: 30px;
+    background-image: url(./assets/pexels-photo-129731.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px 1px;
+}
+#win,#lose{
+    font-size: 80px;
+    color: aliceblue;
+}
+.body3{
+    background-image: url(./assets/pexels-photo-2680270.webp);
+}
